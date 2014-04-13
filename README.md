@@ -4,9 +4,9 @@ if they were open to hiring remote developers.
 The CSV file included provides the company name, the city the company provided
 as their headquarters, and their response.
 
--1 - Company expressed no interest in hiring any remote developers
-0 - Company expressed interest with limitations
-1 - Company expressed interest in remote developers
+- -1 - Company expressed no interest in hiring any remote developers
+- 0 - Company expressed interest with limitations
+- 1 - Company expressed interest in remote developers
 
 Two companies present at PyCon closed their booth before I was able to ask them
 any questions.
