@@ -1,0 +1,48 @@
+company,country,status
+Amplify,"Brooklyn, NY",1
+Bank of America,"NYC/Toronto",0
+Cars.com,"San Franciso, CA; Boston, MA",1
+CashStar,"Portland, ME",0
+Continuum Analytics,"Austin, TX",1
+Coursera,"Mountain View, CA",-1
+Cox Media,"Atlanta, GA",1
+DataPad,"San Francisco, CA",0
+Demonware,"Vancouver, Canada",0
+Disney Animation Studio,"Burbank, CA",-1
+Divio,"Zurich, Switzerland",1
+Dow Jones,"New York, NY",1
+EMC,,1
+ESRI,"Redmond, CA",0
+Enovance,"Montreal, QB, CA",1
+Enthought,United Kingdom,0
+EventBrite,"San Francisco, CA",-1
+Excella,"Washington, DC",-1
+Facebook,"Menlo Park, CA",1
+Firefox OS,"Mountain View, CA",1
+FusionBox,"Denver, CO",-1
+Google (Nest),"Palo Alto, CA",-1
+Guidebook,"San Francisco, CA",0
+HP,,0
+HearSaySocial,"San Francisco, CA",-1
+LaunchKey,
+LexMachina,"Menlo Park, CA",1
+Lightspeed,"Montreal, QB, Canada",-1
+LinkedIn,"New York, NY",0
+New Relic,"Portland, OR",-1
+PDTPartners,"New York, NY",-1
+Prism Skylabs,"San Francisco, CA",-1
+Rackspace,"San Antonio, TX",1
+Redhat,,1
+SauceLabs,"San Francisco, CA",1
+Savoir-Faire Linux,"Montreal, QB, CA",-1
+Scraping Hub,,1
+Simple Energy,"Boulder, CO",-1
+Sourceforge,"San Francisco, CA",0
+Stripe,"San Francisco, CA",1
+TNDTechnologies,,
+Thumbtack,"San Francisco, CA",-1
+Twilio,"San Francisco, CA",-1
+Twitter,"San Francisco, CA",0
+Vigilant Global,"Montreal, QB, Canada",-1
+Wargaming.net,"Austin, TX",0
+iWeb,"Montreal, QB, Canada",-1
