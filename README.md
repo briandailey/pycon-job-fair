@@ -11,6 +11,7 @@ as their headquarters, and their response.
 - -1 - Company expressed no interest in hiring any remote developers
 - 0 - Company expressed interest with limitations
 - 1 - Company expressed interest in remote developers
+- If the status is blank, then I was not able to get any information about the company.
 
 Two companies present at PyCon closed their booth before I was able to ask them
 any questions.
