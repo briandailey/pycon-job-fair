@@ -1,7 +1,7 @@
 ### PyCon 2012 Remote Hiring Survey
 
 This data was collected at PyCon 2014 in Montreal, Quebec. Companies were asked
-if they were open to hiring remote developers.
+if they were open to hiring remote developers (outside any of their offices).
 
 The CSV file included provides the company name, the city the company provided
 as their headquarters, and their response.
