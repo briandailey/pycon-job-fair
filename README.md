@@ -22,10 +22,10 @@ any questions.
 The average company at PyCon is slightly more disposed towards only hiring
 on-site developers (with an average response of -0.022).
 
-![Pycon 2014 Job Fair Survey Crosstab Stacked Bar Chart](/pycon_2014_survey_crosstab_stacked_bar_chart.png)
+![Pycon 2014 Job Fair Survey Crosstab Stacked Bar Chart](/pycon_2014_job_fair_survey_crosstab_stacked_bar_chart.png)
 
-[IPython notebook](https://raw.githubusercontent.com/westurner/pycon-2014-job-fair/add_ipynb_crosstab_and_chart/pycon_2014_job_fair_survey_analysis.ipynb)
-([open in nbviewer](http://nbviewer.ipython.org/github/westurner/pycon-2014-job-fair/blob/add_ipynb_crosstab_and_chart/pycon_2014_job_fair_survey_analysis.ipynb))
+[IPython notebook](https://raw.githubusercontent.com/briandailey/pycon-2014-job-fair/master/pycon_2014_job_fair_survey_analysis.ipynb)
+([open in nbviewer](http://nbviewer.ipython.org/github/briandailey/pycon-2014-job-fair/blob/master/pycon_2014_job_fair_survey_analysis.ipynb))
 
 #### Contact Information
 
