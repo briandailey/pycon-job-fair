@@ -1,48 +1,103 @@
-company,headquartered,status
-Amplify,"Brooklyn, NY",1
-Bank of America,"NYC/Toronto",0
-Cars.com,"San Franciso, CA; Boston, MA",1
-CashStar,"Portland, ME",0
-Continuum Analytics,"Austin, TX",1
-Coursera,"Mountain View, CA",-1
-Cox Media,"Atlanta, GA",1
-DataPad,"San Francisco, CA",0
-Demonware,"Vancouver, Canada",0
-Disney Animation Studio,"Burbank, CA",-1
-Divio,"Zurich, Switzerland",1
-Dow Jones,"New York, NY",1
-EMC,,1
-ESRI,"Redlands, CA",0
-Enovance,"Montreal, QC, CA; Paris, France",1
-Enthought,"Austin, TX",0
-EventBrite,"San Francisco, CA",-1
-Excella,"Washington, DC",-1
-Facebook,"Menlo Park, CA",-1
-FusionBox,"Denver, CO",-1
-Google (Nest),"Palo Alto, CA",-1
-Guidebook,"San Francisco, CA",0
-HP,,0
-HearSaySocial,"San Francisco, CA",-1
-LaunchKey,,
-LexMachina,"Menlo Park, CA",1
-Lightspeed,"Montreal, QC, Canada",-1
-LinkedIn,"Mountain View, CA",0
-Mozilla,"Mountain View, CA",1
-New Relic,"Portland, OR",-1
-PDTPartners,"New York, NY",-1
-Prism Skylabs,"San Francisco, CA",-1
-Rackspace,"San Antonio, TX",1
-Red Hat,"Raleigh, NC",1
-SauceLabs,"San Francisco, CA",1
-Savoir-Faire Linux,"Montreal, QC, Canada",-1
-Scraping Hub,,1
-Simple Energy,"Boulder, CO",-1
-Sourceforge,"San Francisco, CA",0
-Stripe,"San Francisco, CA",1
-TNDTechnologies,,
-Thumbtack,"San Francisco, CA",-1
-Twilio,"San Francisco, CA",-1
-Twitter,"San Francisco, CA",0
-Vigilant Global,"Montreal, QC, Canada",-1
-Wargaming.net,"Austin, TX",0
-iWeb,"Montreal, QC, Canada",-1
+company,headquartered,status,year
+Amplify,"Brooklyn, NY",1,2014
+Bank of America,NYC/Toronto,0,2014
+Cars.com,"San Franciso, CA; Boston, MA",1,2014
+CashStar,"Portland, ME",0,2014
+Continuum Analytics,"Austin, TX",1,2014
+Coursera,"Mountain View, CA",-1,2014
+Cox Media,"Atlanta, GA",1,2014
+DataPad,"San Francisco, CA",0,2014
+Demonware,"Vancouver, Canada",0,2014
+Disney Animation Studio,"Burbank, CA",-1,2014
+Divio,"Zurich, Switzerland",1,2014
+Dow Jones,"New York, NY",1,2014
+EMC,,1,2014
+ESRI,"Redlands, CA",0,2014
+Enovance,"Montreal, QC, CA; Paris, France",1,2014
+Enthought,"Austin, TX",0,2014
+EventBrite,"San Francisco, CA",-1,2014
+Excella,"Washington, DC",-1,2014
+Facebook,"Menlo Park, CA",-1,2014
+FusionBox,"Denver, CO",-1,2014
+Google (Nest),"Palo Alto, CA",-1,2014
+Guidebook,"San Francisco, CA",0,2014
+HP,,0,2014
+HearSaySocial,"San Francisco, CA",-1,2014
+LaunchKey,,,2014
+LexMachina,"Menlo Park, CA",1,2014
+Lightspeed,"Montreal, QC, Canada",-1,2014
+LinkedIn,"Mountain View, CA",0,2014
+Mozilla,"Mountain View, CA",1,2014
+New Relic,"Portland, OR",-1,2014
+PDTPartners,"New York, NY",-1,2014
+Prism Skylabs,"San Francisco, CA",-1,2014
+Rackspace,"San Antonio, TX",1,2014
+Red Hat,"Raleigh, NC",1,2014
+SauceLabs,"San Francisco, CA",1,2014
+Savoir-Faire Linux,"Montreal, QC, Canada",-1,2014
+Scraping Hub,,1,2014
+Simple Energy,"Boulder, CO",-1,2014
+Sourceforge,"San Francisco, CA",0,2014
+Stripe,"San Francisco, CA",1,2014
+TNDTechnologies,,,2014
+Thumbtack,"San Francisco, CA",-1,2014
+Twilio,"San Francisco, CA",-1,2014
+Twitter,"San Francisco, CA",0,2014
+Vigilant Global,"Montreal, QC, Canada",-1,2014
+Wargaming.net,"Austin, TX",0,2014
+iWeb,"Montreal, QC, Canada",-1,2014
+Amplify,"New York, NY",-1,2015
+FusionBox,"Denver, CO",-1,2015
+Disney Animation Studio,"Burbank, CA",-1,2015
+Red Hat,"Raleigh, NC",1,2015
+Heroku,,0,2015
+LinkedIn,"Mountain View, CA",-1,2015
+Cars.com,"Santa Monica, CA",1,2015
+Survey Monkey,"Palo Alto, CA",1,2015
+Shopify,Multiple,-1,2015
+PDTPartners,"New York, NY",0,2015
+Outbox Enterprises,Multiple,1,2015
+Aldryn,"Zurich, Switzerland",1,2015
+Quartz,"New York, NY",-1,2015
+Counsyl,"San Francisco, CA",1,2015
+Twilio,"San Antonio, TX",-1,2015
+Continuum Analytics,"Austin, TX",1,2015
+App Neta,Multiple,-1,2015
+Demonware,Multiple,-1,2015
+Capital One,Multiple,-1,2015
+LaunchKey,"Las Vegas, NV",-1,2015
+Yelp,"San Francisco, CA",-1,2015
+AQR,"New York, NY",-1,2015
+Nylas,"San Francisco, CA",0,2015
+Corvisa,"Milwaukee, WI",0,2015
+Science Logic,"Washington, DC",1,2015
+Runscope,"San Francisco, CA",1,2015
+Guidebook,"Palo Alto, CA",-1,2015
+ESRI,"Redlands, CA",-1,2015
+SauceLabs,"San Francisco, CA",1,2015
+PagerDuty,Multiple,-1,2015
+Meetup,"New York, NY",-1,2015
+Ubisoft,"Montreal, QC",1,2015
+EMC,Multiple,1,2015
+Telesign,"Los Angeles, CA",-1,2015
+Safari,,1,2015
+DataRobot,"Boston, MA",0,2015
+Wargaming.net,Multiple,-1,2015
+FlowRoute,"Seattle, WA",-1,2015
+Twitter,"San Francisco, CA",0,2015
+Komodo,"Vancouver, Canada",1,2015
+AppNexus,"New York, NY",-1,2015
+Points,Toronto,0,2015
+Marketing.AI,"Vancouver, Canada",-1,2015
+inter|ana,"Palo Alto, CA",0,2015
+Venmo,"New York, NY",0,2015
+RoomStorm,"San Francisco, CA",-1,2015
+TrueVault,"San Jose, CA",-1,2015
+Blitzen,Waterloo,-1,2015
+Thumbtack,"San Francisco, CA",-1,2015
+HP,Multiple,1,2015
+Caktus,"Durham, NC",1,2015
+Dropbox,Multiple,-1,2015
+Rackspace,"Austin, TX",1,2015
+Google (Nest),"Palo Alto, CA",-1,2015
+Microsoft,"Redmond, WA",0,2015
